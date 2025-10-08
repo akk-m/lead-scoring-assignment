@@ -1,0 +1,12 @@
+lead-scoring-assignment/
+├── app/
+│   ├── __init__.py
+│   ├── main.py       # APIs
+│   ├── models.py     # Pydantic models
+│   ├── scoring.py    # Logic for rules + AI
+│   └── tests/
+│       └── test_scoring.py  # Unit tests (bonus)
+├── .gitignore        # Ignore venv, __pycache__, etc.
+├── requirements.txt
+├── Dockerfile        # Bonus
+└── README.md         # Docs

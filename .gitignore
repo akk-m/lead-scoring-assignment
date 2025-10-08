@@ -2,4 +2,5 @@ venv/
 __pycache__/
 *.pyc
 .env
-.pytest_cache/
+.pytest_cache/"Project Structure and Model.txt" 
+"Project Structure and Model.txt" 
